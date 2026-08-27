@@ -14,7 +14,7 @@ Commands typed into the terminal will be executed upon pressing enter. Commands 
 
 [Solution]:
 
-Simply invoke the "Hello" command in the Linux terminal.
+Simply invoke the "hello" command in the Linux terminal.
 
 [# Relevant command(s) or code]:
 
