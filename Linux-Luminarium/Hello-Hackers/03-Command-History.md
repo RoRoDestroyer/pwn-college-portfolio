@@ -18,7 +18,7 @@ Cycle through the command History to find the hidden flag.
 
 [# Relevant command(s) or code]:
 
-N/A
+Up arrow key cycles through history and so does down arrow key.
 
 [What I Learned]:
 
