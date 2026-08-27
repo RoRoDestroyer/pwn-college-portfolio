@@ -1,28 +1,28 @@
-[Challenge Name]
+[Intro to Commands]
 
-Module: [Module / Dojo Name]
+Module: [Hello Hackers / Linux Luminarium]
 
-Date: [Date Completed]
+Date: [8/27/2026]
 
-Objective
+[Objective]:
 
-[In 1–2 sentences, explain what the challenge asked you to accomplish in your own words.]
+Write your first command, specifically invoke the "hello" command (custom pwn.college script non native Linux command).
 
-Key Concept
+[Key Concept]:
 
-[Briefly explain the main concept being taught and how it works. Usually 2–4 sentences.]
+Commands typed into the terminal will be executed upon pressing enter. Commands in Linux are case sensitive.
 
-Solution
+[Solution]:
 
-[Explain what you did and why you did it. Focus on your reasoning rather than simply listing commands.]
+Simply invoke the "Hello" command in the Linux terminal.
 
-# Relevant command(s) or code
+[# Relevant command(s) or code]:
 
-[Briefly explain any important parts of the command/code and how they led to the solution.]
+Albeit not used for the challenge "whoami" command prints the name of the current logged in user in the terminal. "hello" command is relevant as it is used to complete this challenge; this command is non native to Linux and is used strictly for this challenge.
 
-What I Learned
+[What I Learned]:
 
-[2–3 sentences explaining what you learned from the challenge and how it improved your understanding of Linux, security, programming, exploitation, etc.]
+The whoami command is one of many commands on Linux; in specific this command prints the current logged in users name to the terminal. Linux commands are case sensitive and upon the completion of a command the terminal is ready for the next command. 
 
 Status: ✓ Completed on pwn.college
 
