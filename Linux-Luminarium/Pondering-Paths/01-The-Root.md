@@ -14,13 +14,7 @@ The Root is defined by `/` and invoking, say for instance, a program stored in r
 
 [Solution]:
 
-Simply invoke the `pwn` command by the absolute root.
-<details>
-<summary>Click to reveal full solution</summary>
-
-Execute `/pwn` directly in the terminal prompt.
-
-</details>
+Simply invoke the `pwn` command by the absolute root: `/pwn`
 
 [# Relevant command(s) or code]:
 
