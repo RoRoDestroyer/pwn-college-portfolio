@@ -18,7 +18,7 @@ Simply invoke the `pwn` command by the absolute root: `/pwn`
 
 [# Relevant command(s) or code]:
 
-`/` is the root.
+`/` is the root. (If started with root, subsequent following path names would be called by absolute path)
 
 [What I Learned]:
 
