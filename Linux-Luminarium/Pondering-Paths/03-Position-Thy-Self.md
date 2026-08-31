@@ -10,7 +10,7 @@ Execute the `/challenge/run` program from a specific path; must cd into that dir
 
 [Key Concept]:
 
-You can navigate around in directories in Linux with the `cd` command; it stands for change directory. The path is the argument to your `cd` command. By using the `cd` command you are changing the current working directory. Each process has its own director that it is located in. Also note that `~` means the current directory that the shell is located in.
+You can navigate around in directories in Linux with the `cd` command; it stands for change directory. The path is the argument to your `cd` command. By using the `cd` command you are changing the current working directory. Each process has its own directory that it is located in. Also note that `~` means the current users home directory.
 
 [Solution]:
 
@@ -18,11 +18,11 @@ Simply execute the `/challenge/run` command to see the directory it wants you to
 
 [# Relevant command(s) or code]:
 
-`cd` (change directory) is the Linux command to change the current working directory. `~` also notes the current directory your shell is located in.
+`cd` (change directory) is the Linux command to change the current working directory. `~` also notes the current users home directory.
 
 [What I Learned]:
 
-`cd` is a command that allows us to navigate Linux directories by changing our current working directory to by executing the `cd` command subsequently followed with your argument (the path of the directory you want to work in). I also learned the `~` indicates the directory your shell is located in.
+`cd` is a command that allows us to navigate Linux directories by changing our current working directory to by executing the `cd` command subsequently followed with your argument (the path of the directory you want to work in). I also learned the `~` indicates the home directory for the current user.
 
 Status: ✓ Completed on pwn.college
 
