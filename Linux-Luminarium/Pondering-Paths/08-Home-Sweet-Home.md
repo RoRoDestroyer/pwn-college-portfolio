@@ -22,7 +22,7 @@ The `touch` command creates files, and the subsequent argument will be the name 
 
 [What I Learned]:
 
-The `~` signifies 
+The `~` signifies the user is in their home directory. Home directory typically stores the users personal files.
 
 Status: ✓ Completed on pwn.college
 
