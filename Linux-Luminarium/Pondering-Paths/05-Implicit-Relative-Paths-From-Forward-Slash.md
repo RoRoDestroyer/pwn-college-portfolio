@@ -1,4 +1,4 @@
-[Implicit Relative Paths From, /]
+[Implicit Relative Paths, From /]
 
 Module: [Pondering Paths / Linux Luminarium]
 
