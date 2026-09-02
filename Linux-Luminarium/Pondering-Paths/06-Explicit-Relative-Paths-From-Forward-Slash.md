@@ -10,7 +10,7 @@ Your current working directory must be in the root, then the path you use to inv
 
 [Key Concept]:
 
-Every directory in most operating systems contains two implicit terms: `.` and `..`. The first implicit term, `.`, means to stay in the current directory you're actively in, or actively changing in.
+Every directory in most operating systems contains two implicit terms: `.` and `..`. The first implicit term, `.`, means to stay in the current directory you're actively in, or actively changing in. While `..` refers to going backwards, for example, `/test/challenge/..` would put us in the `/test` directory.
 
 [Solution]:
 
@@ -22,7 +22,7 @@ Invoke `cd /` then invoke `/challenge/run` by the implicit relative path: `./cha
 
 [What I Learned]:
 
-Reinforced relative paths and `cd` command. Learned the first implicit term `.`; Second term comes in later lessons.
+Reinforced relative paths and `cd` command. Learned the first implicit term `.`; Second implicit term, `..`, means to go backwards in the file hierarchy. 
 
 Status: ✓ Completed on pwn.college
 
