@@ -10,15 +10,15 @@ Date: [9/02/2026]
 
 [Key Concept]:
 
-Every user has a home directory, typically labeled as `/home`, the home directory is where most users store their personal files. The `~` signifies the users directory, for example, `/home/user`. This means bash takes `~` and signifies it as a shorthand for the user's home directory path.
+Every user has a home directory, typically labeled as `/home`, the home directory is where most users store their personal files. The `~` signifies the users directory, for example, `/home/user`. This means bash takes `~` and reads it as `/home/user`
 
 [Solution]:
 
-Since on bash startup automatically loads us into our home directory, signified by `~$` we can immediately start off by creating our file. For this we will use `touch h`, then we will invoke the command with our argument: `/challenge/run ~/h`. This will finish the challenge and the challenge will then read out the flag to terminal, thus completing it.
+Since on bash startup automatically loads us into our home directory, signified by `~$` we can immediately start to invoke the command with our argument: `/challenge/run ~/h`. This will automatically create the file for us and effectively finish the challenge and the challenge will then read out the flag to terminal, thus completing it.
 
 [# Relevant command(s) or code]:
 
-The `touch` command creates files, and the subsequent argument will be the name of the file created. (prior knowledge, this lesson did NOT teach this). `~` is a shortcut for the user's home directory `/home/user/`
+`~` is a shortcut for the user's home directory we read `~` while Linus reads `/home/user/` for `~`
 
 [What I Learned]:
 
