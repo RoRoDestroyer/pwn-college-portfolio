@@ -6,7 +6,7 @@ Date: [9/18/2026]
 
 [Objective]:
 
-Read the `flag` file located in the home directory with the `cat` command but this time by using the absolute path for `flag`.
+Read the `flag` file with the `cat` command but this time by using the absolute path for `flag`.
 
 [Key Concept]:
 
