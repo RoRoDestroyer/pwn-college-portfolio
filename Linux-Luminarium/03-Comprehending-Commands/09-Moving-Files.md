@@ -14,7 +14,7 @@ The `mv` command moves files. The way the mv command works is it has 2 arguments
 
 [Solution]:
 
-Use the mv command to move the flag file by writing out: `mv /flag /tmp/hack-the-planet`. Then run /challenge/check for the flag.
+Use the `mv` command to move the flag file by writing out: `mv /flag /tmp/hack-the-planet`. Then run /challenge/check for the flag.
 
 [# Relevant command(s) or code]:
 
