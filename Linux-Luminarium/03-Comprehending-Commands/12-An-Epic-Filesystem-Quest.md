@@ -10,7 +10,7 @@ The first clue is in `/`. Once in look around with `ls`. There'll be a file name
 
 [Key Concept]:
 
-
+The difference of what an explicit path is and a relative path. An explicit is the exact file path name, which can be paired with a command meaning it is being called from the explicit path. A relative path means the path you're calling a file from is RELATIVE to the current working directory. The `cd` command allows us to enter different directories. The purpose of `ls` is to view files, we need to view hidden files (dot prepended), we can use `ls -a`.  Lastly `cat` is to read out files data. 
 
 [Solution]:
 
@@ -18,11 +18,11 @@ To head into `/` we must `cd` into it by writing out: `cd /`. Once in `/` we can
 
 [# Relevant command(s) or code]:
 
-
+The `cd` command is to change directories and go into them. The `ls` command is to look for files, when needing to view hidden files `ls -a` will work. The `cat` command reads out file data. Lastly albeit not a command, its relevant to this challenge, an explicit path is the ENTIRE path written out. The relative path is relative to what current working directory your in.
 
 [What I Learned]:
 
-The extension of `ls` to view hidden files; `ls -a`. I also learned by default Linux uses a "." notation set at the front of a file name to mark it as hidden.
+Reinforcement of the three commands and their use cases: `ls`; and its argument to view hidden files, `cat`, and `cd`. Reinforcement of the differences of a relative path and explicit path and how to call them.
 
 Status: ✓ Completed on pwn.college
 
